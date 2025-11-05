@@ -55,7 +55,8 @@ Setelah pesanan berhasil dikirim (data terkirim ke server), aplikasi akan menamp
 
 | Splash Screen | Landing | SignUp |
 | :---: | :---: | :---: |
-| ![c:\Users\HYPE AMD\OneDrive\Gambar\Screenshots\Screenshot 2025-11-05 125304.png](https://github.com/user-attachments/assets/8a4aef9d-d91d-472a-808a-07e927d1a454) |  ![c:\Users\HYPE AMD\OneDrive\Gambar\Screenshots\Screenshot 2025-11-05 125309.png](https://github.com/user-attachments/assets/840d695d-5294-4469-93f7-0d6def57d393) | ![c:\Users\HYPE AMD\OneDrive\Gambar\Screenshots\Screenshot 2025-11-05 124731.png](https://github.com/user-attachments/assets/b1cfbedc-20e8-4cba-a478-1a1eb9934179) |
+| ![<img width="289" height="561" alt="Screenshot 2025-11-05 125304" src="https://github.com/user-attachments/assets/f65ec92e-aa3e-449e-8197-6b630200e5d1" />
+) |  ![c:\Users\HYPE AMD\OneDrive\Gambar\Screenshots\Screenshot 2025-11-05 125309.png](https://github.com/user-attachments/assets/840d695d-5294-4469-93f7-0d6def57d393) | ![c:\Users\HYPE AMD\OneDrive\Gambar\Screenshots\Screenshot 2025-11-05 124731.png](https://github.com/user-attachments/assets/b1cfbedc-20e8-4cba-a478-1a1eb9934179) |
 
 | Login | Register | Home |
 | :---: | :---: | :---: |
