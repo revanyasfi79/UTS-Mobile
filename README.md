@@ -57,8 +57,8 @@ Setelah pesanan berhasil dikirim (data terkirim ke server), aplikasi akan menamp
 <img width="289" height="561" alt="Screenshot 2025-11-05 125304" src="https://github.com/user-attachments/assets/891492bf-80a6-4eb0-a28f-8e00c012a1a2" />
 <img width="289" height="561" alt="Screenshot 2025-11-05 125309" src="https://github.com/user-attachments/assets/d49b60c8-0ba3-452b-b205-bcb04456680b" />
 <img width="289" height="561" alt="Screenshot 2025-11-05 124731" src="https://github.com/user-attachments/assets/b53f4b86-3ea0-4e3b-a3a2-fb28b99b8024" />
-<img width="289" height="600" alt="Screenshot 2025-11-05 124023" src="https://github.com/user-attachments/assets/0d59c9db-0130-467c-8e1d-6ebebf29595e" />
-<img width="289" height="350" alt="Screenshot 2025-11-05 124806" src="https://github.com/user-attachments/assets/f6ea75aa-2eb1-469d-aac6-c139e8c65fd0" />
+<img width="289" height="900" alt="Screenshot 2025-11-05 124023" src="https://github.com/user-attachments/assets/0d59c9db-0130-467c-8e1d-6ebebf29595e" />
+<img width="289" height="700" alt="Screenshot 2025-11-05 124806" src="https://github.com/user-attachments/assets/f6ea75aa-2eb1-469d-aac6-c139e8c65fd0" />
 <img width="289" height="561" alt="Screenshot 2025-11-05 124901" src="https://github.com/user-attachments/assets/3401cf60-b913-41f8-a632-f27ee4333ea3" />
 <img width="289" height="561" alt="Screenshot 2025-11-05 124920" src="https://github.com/user-attachments/assets/cc0c7d7d-35d1-4b92-94ce-3d23f6dffb63" />
 <img width="289" height="561" alt="Screenshot 2025-11-05 125038" src="https://github.com/user-attachments/assets/1373686d-2cba-46ea-b19f-6ddf5d021cf7" />
