@@ -55,9 +55,9 @@ Setelah pesanan berhasil dikirim (data terkirim ke server), aplikasi akan menamp
 
 | Splash Screen | Landing | SignUp |
 | :---: | :---: | :---: |
-| ![<img width="289" height="561" alt="Screenshot 2025-11-05 125304" src="https://github.com/user-attachments/assets/ffd518f1-059e-4d5c-bf74-191203ae7904" />
-|  ![<img width="386" height="594" alt="Screenshot 2025-11-05 124023" src="https://github.com/user-attachments/assets/d1e97e63-7865-4806-a2fe-9c6b2eb594d2" />
-) | ![<img width="361" height="826" alt="Screenshot 2025-11-05 124901" src="https://github.com/user-attachments/assets/462a82a9-5c0a-424c-a41d-787c69fa7bc7" />
+| ![<img width="289" height="561" alt="Screenshot 2025-11-05 125304"] src="https://github.com/user-attachments/assets/ffd518f1-059e-4d5c-bf74-191203ae7904" />
+|  ![<img width="386" height="594" alt="Screenshot 2025-11-05 124023"] src="https://github.com/user-attachments/assets/d1e97e63-7865-4806-a2fe-9c6b2eb594d2" />
+) | ![<img width="361" height="826" alt="Screenshot 2025-11-05 124901"] src="https://github.com/user-attachments/assets/462a82a9-5c0a-424c-a41d-787c69fa7bc7" />
 |
 
 | Login | Register | Home |
