@@ -54,7 +54,5 @@ Setelah pesanan berhasil dikirim (data terkirim ke server), aplikasi akan menamp
 *(Tempatkan gambar-gambar Anda di sini untuk memberikan gambaran visual)*
 
 
-<img width="289" height="561" alt="Screenshot 2025-11-05 125304" src="https://github.com/user-attachments/assets/891492bf-80a6-4eb0-a28f-8e00c012a1a2" />
-<img width="312" height="609" alt="Screenshot 2025-11-05 125309" src="https://github.com/user-attachments/assets/d49b60c8-0ba3-452b-b205-bcb04456680b" />
-<img width="386" height="594" alt="Screenshot 2025-11-05 124023" src="https://github.com/user-attachments/assets/fb6a94fb-911f-4ebb-b900-9bb549bc71dc" />
+<img width="289" height="561" alt="Screenshot 2025-11-05 125304" src="https://github.com/user-attachments/assets/891492bf-80a6-4eb0-a28f-8e00c012a1a2" />  <img width="312" height="609" alt="Screenshot 2025-11-05 125309" src="https://github.com/user-attachments/assets/d49b60c8-0ba3-452b-b205-bcb04456680b" />  <img width="386" height="594" alt="Screenshot 2025-11-05 124023" src="https://github.com/user-attachments/assets/fb6a94fb-911f-4ebb-b900-9bb549bc71dc" />
 
