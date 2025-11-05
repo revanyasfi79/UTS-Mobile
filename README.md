@@ -47,5 +47,6 @@ Setelah pesanan berhasil dikirim (data terkirim ke server), aplikasi akan menamp
 
 * **Bahasa:** [Kotlin](https://developer.android.com/kotlin)
 
----
+---<img width="1154" height="790" alt="Screenshot 2025-11-05 235342" src="https://github.com/user-attachments/assets/92bf880d-f6d8-4c42-8faf-667e0ec08618" />
+
 
