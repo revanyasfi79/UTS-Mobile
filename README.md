@@ -55,29 +55,19 @@ Setelah pesanan berhasil dikirim (data terkirim ke server), aplikasi akan menamp
 
 | Splash Screen | Landing | SignUp |
 | :---: | :---: | :---: |
-| ![<img width="289" height="561" alt="Screenshot 2025-11-05 125304"] src="https://github.com/user-attachments/assets/ffd518f1-059e-4d5c-bf74-191203ae7904" />
-|  ![<img width="386" height="594" alt="Screenshot 2025-11-05 124023"] src="https://github.com/user-attachments/assets/d1e97e63-7865-4806-a2fe-9c6b2eb594d2" />
-) | ![<img width="361" height="826" alt="Screenshot 2025-11-05 124901"] src="https://github.com/user-attachments/assets/462a82a9-5c0a-424c-a41d-787c69fa7bc7" />
-|
+| ![c:\Users\HYPE AMD\OneDrive\Gambar\Screenshots\Screenshot 2025-11-05 125304.png](https://github.com/user-attachments/assets/8a4aef9d-d91d-472a-808a-07e927d1a454) |  ![c:\Users\HYPE AMD\OneDrive\Gambar\Screenshots\Screenshot 2025-11-05 125309.png](https://github.com/user-attachments/assets/840d695d-5294-4469-93f7-0d6def57d393) | ![c:\Users\HYPE AMD\OneDrive\Gambar\Screenshots\Screenshot 2025-11-05 124731.png](https://github.com/user-attachments/assets/b1cfbedc-20e8-4cba-a478-1a1eb9934179) |
 
 | Login | Register | Home |
 | :---: | :---: | :---: |
-|![<img width="343" height="540" alt="Screenshot 2025-11-05 124806" src="https://github.com/user-attachments/assets/ceaafdf8-29ee-45d0-b39f-51d92f3023d8" />
- | ![<img width="386" height="594" alt="Screenshot 2025-11-05 124023" src="https://github.com/user-attachments/assets/97d31cc7-97c3-4918-93e4-d9ad62548154" />
- | ![<img width="361" height="826" alt="Screenshot 2025-11-05 124901" src="https://github.com/user-attachments/assets/7b9a3970-591f-4841-9389-011a07de87a7" />
-|
+|![c:\Users\HYPE AMD\OneDrive\Gambar\Screenshots\Screenshot 2025-11-05 124806.png](https://github.com/user-attachments/assets/9035a67c-d349-4f7b-a859-281881fadffb) | ![c:\Users\HYPE AMD\OneDrive\Gambar\Screenshots\Screenshot 2025-11-05 124023.png](https://github.com/user-attachments/assets/15ff649e-cf1c-4e25-a8b5-fe9faf27d97f) | ![c:\Users\HYPE AMD\OneDrive\Gambar\Screenshots\Screenshot 2025-11-05 124901.png](https://github.com/user-attachments/assets/c57fc3cc-4190-4f15-b241-4f9d32e97dcb) |
 
 | Keranjang (Kosong) | Keranjang (Tidak Kosong) | Alamat Pengiriman |
 | :---: | :---: | :---: |
-|  ![<img width="371" height="828" alt="Screenshot 2025-11-05 124920" src="https://github.com/user-attachments/assets/55512e93-7d6b-4fb4-96ec-65077052c3ec" />
- | ![<img width="367" height="823" alt="Screenshot 2025-11-05 125038" src="https://github.com/user-attachments/assets/9f30c49e-8e9d-4b64-bbc6-2bd73cceb287" />
- | !<img width="354" height="459" alt="Screenshot 2025-11-05 125140" src="https://github.com/user-attachments/assets/086e4f93-3b29-49a4-a812-4e3a296c6037" />
-|
+|  ![c:\Users\HYPE AMD\OneDrive\Gambar\Screenshots\Screenshot 2025-11-05 124920.png](https://github.com/user-attachments/assets/0826f14a-c21b-483b-a81a-35ff0a7e09e4) | ![IMG-c:\Users\HYPE AMD\OneDrive\Gambar\Screenshots\Screenshot 2025-11-05 125038.png](https://github.com/user-attachments/assets/882553c0-2a98-4ca4-8fd9-1ac485066ae7) | ![c:\Users\HYPE AMD\OneDrive\Gambar\Screenshots\Screenshot 2025-11-05 125140.png](https://github.com/user-attachments/assets/ee57c995-a633-434f-b6b8-fde81f669ae2)|
 
 
 | Konfirmasi | Profile | 
 | :---: | :---: | 
-| !<img width="367" height="824" alt="Screenshot 2025-11-05 125148" src="https://github.com/user-attachments/assets/95d9e12f-8e97-4c51-b692-1257baf0c6d8" />
-|  ![<img width="344" height="741" alt="Screenshot 2025-11-05 125157" src="https://github.com/user-attachments/assets/3f04c099-b18d-41fe-b141-003449ff99fe" />
-|
+| ![c:\Users\HYPE AMD\OneDrive\Gambar\Screenshots\Screenshot 2025-11-05 125148.png](https://github.com/user-attachments/assets/29d722aa-7c2b-4849-9a91-582682482e7c) |  ![c:\Users\HYPE AMD\OneDrive\Gambar\Screenshots\Screenshot 2025-11-05 125157.png](https://github.com/user-attachments/assets/d87f7e9d-4bbf-4c4e-95fc-7556acc8fd53)|
+
 
